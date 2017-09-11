@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Fall 2017: Physics 101 Graduate Teaching Assitant 
+* Fall 2016 -- Fall 2017: Physics 101 Graduate Teaching Assitant 
   * University of North Carolina Wilmington 
   * Department of Physics and Physical Oceanography
   * Supervisor: Dr. Dylan McNamara
@@ -26,15 +26,9 @@ Work experience
   * University of North Carolina Wilmington
   * Supervisor: Dr. Dylan McNamara
   
-* Srping 2017: Physics 101 Graduate Teaching Assitant 
-  * University of North Carolina Wilmington 
-  * Department of Physics and Physical Oceanography
-  * Supervisor: Dr. Dylan McNamara
 
-* Fall 2016: Physics 101 Graduate Teaching Assitant 
-  * University of North Carolina Wilmington 
-  * Department of Physics and Physical Oceanography
-  * Supervisor: Dr. Dylan McNamara
+
+
   
 Skills
 ======
@@ -58,8 +52,8 @@ Skills
   
 * Small Electronics
    *	Arduino 
-	 *  Soldering
-	 *	Solar
+   *  Soldering
+   *	Solar
 
 
 Publications
