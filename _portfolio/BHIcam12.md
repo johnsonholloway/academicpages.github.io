@@ -1,5 +1,5 @@
 ---
-title: "Bald Head Island cam12 "
+title: "Bald Head Island-Conservancy "
 excerpt: "This camera is mounted on a Weather station at the Bald Head Island Consevancy <br/><img src='/images/cam12_09-11-2017_16-30.jpg'>"
 collection: Cams
 ---
