@@ -22,8 +22,18 @@ Work experience
   * Department of Physics and Physical Oceanography
   * Supervisor: Dr. Dylan McNamara
 
-* Summer 2015: Graduate Research Assistant
+* Summer 2017: Graduate Research Assistant
   * University of North Carolina Wilmington
+  * Supervisor: Dr. Dylan McNamara
+  
+* Srping 2017: Physics 101 Graduate Teaching Assitant 
+  * University of North Carolina Wilmington 
+  * Department of Physics and Physical Oceanography
+  * Supervisor: Dr. Dylan McNamara
+
+* Fall 2016: Physics 101 Graduate Teaching Assitant 
+  * University of North Carolina Wilmington 
+  * Department of Physics and Physical Oceanography
   * Supervisor: Dr. Dylan McNamara
   
 Skills
