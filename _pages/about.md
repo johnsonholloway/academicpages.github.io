@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+<img src='/images/BHI1_subsample_64x64.png'>"
