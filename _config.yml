@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "John Holloway"
-  avatar           : "images/BHI1_subsample_64x64.png"
+  avatar           : "profile.png"
   bio              : "M.S. Marine Science Candidate: University of North Carolina Wilmington"
   location         : "Wilmington, North Carolina"
   employer         :
