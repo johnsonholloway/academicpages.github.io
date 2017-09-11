@@ -5,7 +5,7 @@ permalink: /publication/Holloway_thesis.pdf
 excerpt: 'FORECASTING NEARSHORE WAVE FEATURES:
 A COMPARISON OF DETERMINISTIC AND DATA DRIVEN MODELS'
 date: '2016-05'
-paperurl: 'http://academicpages.github.io/files/Holloway_thesis.pdf'
+paperurl: 'http://academicpages.github.io/files/Holloway_Thesis.pdf'
 citation: 'John Holloway, University of North Carolina Wilmington. (20016). &quot; FORECASTING NEARSHORE WAVE FEATURES:
 A COMPARISON OF DETERMINISTIC AND DATA DRIVEN MODELS.&quot;'
 ---
