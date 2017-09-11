@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Physics with Honors, University of North Carolina Wilmington, 2016
+* M.S. in Marine Science, University of North Carolina Wilmington, 2018 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017: Physics 101 Graduate Teaching Assitant 
+  * University of North Carolina Wilmington 
+  * Department of Physics and Physical Oceanography
+  * Supervisor: Dr. Dylan McNamara
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Graduate Research Assistant
+  * University of North Carolina Wilmington
+  * Supervisor: Dr. Dylan McNamara
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Proficiency  
+	*	Python- basic functions, loops and plotting, competency with Numpy, Pandas, Matplotlib, packages 
+	*	Machine Learning for Big Data and Image Classification – Scikit Learn and Tensorflow
+	*	Time Series Analysis 
+	*	MATLAB
+	*	Amazon Web Services –S3 cloud storage
+	*	Basic Linux command line operations -Raspberry Pi  
+
+* 3D Printing
+	*	Makerbot Replicator +
+	*	CAD software- SketchUp
+
+  
+* Drone 
+	* DJI Phantom 4 operation 
+	* DroneDeploy App – Image collection for 2D and 3D modeling 
+	*	UAS Drone Knowledge test-passed August 2017
+  
+* Small Electronics
+   *	Arduino 
+	 *  Soldering
+	 *	Solar
+
 
 Publications
 ======
@@ -56,4 +72,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Sigma Pi Sigma- Physics Honors Society 
+*	American Meteorological Society
+*	American Geophysical Union 
+* UNCW Surf Club
+*	UNCW Surf Team- alternate
+*	UNCW Surfrider Chapter
+*	UNCW Slack-line club
+*	UNCW Plastic Ocean Project
