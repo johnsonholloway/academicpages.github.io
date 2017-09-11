@@ -6,7 +6,7 @@ excerpt: 'FORECASTING NEARSHORE WAVE FEATURES:
 A COMPARISON OF DETERMINISTIC AND DATA DRIVEN MODELS'
 date: '2016-05'
 paperurl: 'http://academicpages.github.io/files/Holloway_thesis.pdf'
-citation: 'John Holloway, Holloway. (20016). &quot; FORECASTING NEARSHORE WAVE FEATURES:
+citation: 'John Holloway, University of North Carolina Wilmington. (20016). &quot; FORECASTING NEARSHORE WAVE FEATURES:
 A COMPARISON OF DETERMINISTIC AND DATA DRIVEN MODELS.&quot;'
 ---
 Many operational, research, and recreation activities rely on accurate forecasts of nearshore
@@ -24,5 +24,5 @@ could improve wave forecasting over all time horizons.
 
 [Download paper here](http://academicpages.github.io/files/Holloway_thesis.pdf)
 
-Recommended citation: John Holloway, Holloway. (20016). "FORECASTING NEARSHORE WAVE FEATURES:
+Recommended citation: John Holloway, University of North Carolina Wilmington. (20016). "FORECASTING NEARSHORE WAVE FEATURES:
 A COMPARISON OF DETERMINISTIC AND DATA DRIVEN MODELS".
