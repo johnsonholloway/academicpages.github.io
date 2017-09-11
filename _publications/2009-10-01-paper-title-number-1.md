@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 1"
+title: "Honors 499 Thesis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Holloway_thesis.pdf
+excerpt: 'FORECASTING NEARSHORE WAVE FEATURES:
+A COMPARISON OF DETERMINISTIC AND DATA DRIVEN MODELS'
+date: '2016-05'
+paperurl: 'http://academicpages.github.io/files/Holloway_thesis.pdf'
+citation: 'John Holloway, Holloway. (20016). &quot; FORECASTING NEARSHORE WAVE FEATURES:
+A COMPARISON OF DETERMINISTIC AND DATA DRIVEN MODELS.&quot;'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Many operational, research, and recreation activities rely on accurate forecasts of nearshore
+wave information. Common forecasting methods rely on models built using equations rep-
+resenting the underlying physics. These models contain parameterized representations of
+dissipative processes leaving forecasts prone to error. This thesis investigates whether data
+driven techniques can be used to improve wave forecasts relative to forecasts provided by a
+state-of-the-art wave model. Specically, nonlinear time series forecasting and articial neu-
+ral networks are applied to data collected from historical buoy records to make predictions
+on wave data collected from a nearshore ADCP. These data driven methods are compared to
+wave forecasts provided by a new deterministic wave model, the Nearshore Wave Prediction
+System (NWPS). Results show that, even with the limited data provided, short term forecast
+accuracy is increased with data driven techniques, thus providing hope that these methods
+could improve wave forecasting over all time horizons.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Holloway_thesis.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: John Holloway, Holloway. (20016). "FORECASTING NEARSHORE WAVE FEATURES:
+A COMPARISON OF DETERMINISTIC AND DATA DRIVEN MODELS".
