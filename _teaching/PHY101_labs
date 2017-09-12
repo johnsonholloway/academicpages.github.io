@@ -2,7 +2,7 @@
 title: "PHY 101 Labs"
 collection: teaching
 type: "Lab"
-permalink: /teaching/PHY101
+permalink: 
 venue: "UNCW, Department of Physics and Physical Oceanography"
 date: "2016-08-08"
 location: "Wimington North Carolina , USA"
@@ -10,4 +10,4 @@ location: "Wimington North Carolina , USA"
 
 Physics 101 Labs
 
-<a ref="http://people.uncw.edu/olszewski/phy101lab/index.html"> lab Schedule <a>
+<a ref="http://people.uncw.edu/olszewski/phy101lab/index.html"> lab Schedule </a>
